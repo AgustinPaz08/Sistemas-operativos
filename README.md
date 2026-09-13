@@ -1,7 +1,3 @@
-                                  TERRABIT PROYECTO 
+# Terrabit
 
-                                   TERRABIT PROYECTO 
-
-
-Scripts correspondientes a la materia Administración de Sistemas Operativos
-Segunda Entrega 
+Scritps de la materia de proyecto, Administración de Sistemas Operativos
